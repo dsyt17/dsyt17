@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsyt17&layout=compact&langs_count=16&&exclude_repo=diploma-work-4&hide=pascal,rtf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsyt17&layout=compact&langs_count=16&&exclude_repo=diploma-work-4&hide=pascal,html,ejs)](https://github.com/anuraghazra/github-readme-stats)
